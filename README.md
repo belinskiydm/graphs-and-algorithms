@@ -9,6 +9,6 @@ You can:
 List of algorithms:
 1. Greedy way between any two nodes
 2. Dejkstra way between any two nodes
-...Comming more...
+...Coming more...
 
 Just for fun.

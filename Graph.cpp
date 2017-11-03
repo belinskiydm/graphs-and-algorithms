@@ -1,4 +1,5 @@
-﻿#include "stdafx.h"
+﻿/* Описываем методы класса Graph. */
+#include "stdafx.h"
 #include <iostream>
 #include <algorithm>
 #include "Graph.h"

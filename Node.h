@@ -1,4 +1,5 @@
-﻿#pragma once
+﻿/* Заголовочный файл. Объявляем структуру, поля и методы для одной вершины. */
+#pragma once
 #include "stdafx.h"
 #include <string>
 #include <map>

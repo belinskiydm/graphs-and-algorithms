@@ -1,11 +1,12 @@
-﻿#pragma once
+﻿/*Заголовочный файл. Объявляем класс графа, методы и поля.*/
+#pragma once
 #include "Node.h"
 #include <set>
 class Graph {
 	//Все вершины записываем в словарь
 	map<int, Node*> full_graph; //Name and pntr to one node
 public:
-	// онструкторы
+	//Конструкторы
 	Graph() {}
 	~Graph();
 	//В этом конструкторе задаем первую вершину
